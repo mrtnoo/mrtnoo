@@ -1,4 +1,3 @@
-[![image](https://www.linkpicture.com/q/banner_71.png)](https://www.linkpicture.com/view.php?img=LPic6410cc433ea0b653367914)
 
 
 <h3 align="center">  MERN Stack Developer ⚡ Fascinate To Learn Devops ⚡ Open Source Contributor ⚡ DSA Guy  </h3>
